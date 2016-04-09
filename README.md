@@ -1,5 +1,8 @@
 # WirelessHexProgrammer-for-Moteino
 
+Version 1.1 (2016-04-09)
+- Bugix
+
 Version 1.0 (2016-02-23)
 
 System requirement: .NET-Framwork 3.5 or higher
