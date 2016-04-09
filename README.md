@@ -1,10 +1,5 @@
 # WirelessHexProgrammer-for-Moteino
 
-Version 1.1 (2016-04-09)
-- Bugfix
-
-Version 1.0 (2016-02-23)
-
 System requirement: .NET-Framwork 3.5 or higher
 
 Start the program and follow the Instruction:  
@@ -22,3 +17,10 @@ How to get the HEX-file from your sketch (for Arduino IDE v1.6.5 or higher):
 
 For more information about Moteino the WirelessProgramming, visit:
 http://lowpowerlab.com
+
+
+Version 1.0 (2016-02-23)
+- Intiale release
+Version 1.1 (2016-04-09)
+- Update/Bugfix
+
