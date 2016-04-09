@@ -21,6 +21,7 @@ http://lowpowerlab.com
 
 Version 1.0 (2016-02-23)
 - Intiale release
+
 Version 1.1 (2016-04-09)
 - Update/Bugfix
 
