@@ -1,7 +1,7 @@
 # WirelessHexProgrammer-for-Moteino
 
 Version 1.1 (2016-04-09)
-- Bugix
+- Bugfix
 
 Version 1.0 (2016-02-23)
 
